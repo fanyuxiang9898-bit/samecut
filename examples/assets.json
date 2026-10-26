@@ -1,0 +1,10 @@
+{
+  "photo-01.jpg": {
+    "watermark": "clean",
+    "published_at": "2026-10-25",
+    "source_url": "https://example.com/original-post"
+  },
+  "photo-02.jpg": {
+    "watermark": "present"
+  }
+}
